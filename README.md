@@ -12,5 +12,5 @@ sh deployServer.sh
 ```
 
 Access the applications with the folowing links
-http://<ipaddresss>/IMS
-http://<ipaddresss>/IMS_migrated
+http://ipaddresss/IMS
+http://ipaddresss/IMS_migrated
