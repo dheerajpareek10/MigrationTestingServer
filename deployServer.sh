@@ -45,8 +45,4 @@ sudo mysql -u ubuntu -pUbuntu@123 shop_inventory < updateDB.sql
 sudo chmod 777 -R /var/www/html
 cd /var/www/html
 git clone https://github.com/SmithaVerity/IMS.git
-SmithaVerity
-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
 git clone https://github.com/SmithaVerity/IMS_migrated.git
-SmithaVerity
-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
