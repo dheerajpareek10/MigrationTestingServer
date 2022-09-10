@@ -37,6 +37,8 @@ sudo systemctl restart mysql
 
 # Place the code in the server html folder
 sudo chmod 777 -R /var/www/html
+git clone https://github.com/SmithaVerity/IMSServerSetup.git
+cd IMSServerSetup/
 sudo mv IMS /var/www/html
 
 # Create ubuntu user in mysql, give privileges and create shop_inventory database
